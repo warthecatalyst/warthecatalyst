@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋. 
+Greetings from warthecatalyst. I'm a post-graduate student majoring in Computer Science and Technology in Huazhong University of Science and Technology.
+🔭 I’m currently working on DJL project in GLCC and try to dive into Cloudwego study group.
 
 <!--
 **warthecatalyst/warthecatalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
