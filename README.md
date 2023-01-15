@@ -1,6 +1,6 @@
 ### Hi there 👋. 
-Greetings from warthecatalyst. I'm a post-graduate student majoring in Computer Science and Technology in Huazhong University of Science and Technology.
-
+Greetings from warthecatalyst. I'm a post-graduate student majoring in Computer Science and Technology in Huazhong University of Science and Technology.\
+Looking for jobs in 2024!\
 [![warthecatalyst's GitHub stats](https://github-readme-stats.vercel.app/api?username=warthecatalyst)](https://github.com/warthecatalyst/github-readme-stats)
 
 <!--
