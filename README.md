@@ -9,8 +9,8 @@ Contributor of Deep Java Library.\
 And also I am interested in multiple languages: Java,Go,Python,C++
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=warthecatalyst&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=warthecatalyst&theme=default)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=warthecatalyst&theme=default)
 
 <!--
 **warthecatalyst/warthecatalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
